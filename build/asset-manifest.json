@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd18bfd3.css",
+    "main.js": "/static/js/main.b3a24c1c.js",
+    "static/js/650.52590b03.chunk.js": "/static/js/650.52590b03.chunk.js",
+    "static/media/chinmay-testlify.png": "/static/media/chinmay-testlify.1f60919ac95d4f88a5ec.png",
+    "static/media/memoji.png": "/static/media/memoji.5e104a0c9bfa9e64dff2.png",
+    "static/media/page_not_found.png": "/static/media/page_not_found.8547083998d2c625d66e.png",
+    "static/media/csf-logo.png": "/static/media/csf-logo.aaa4a2ff468ec215e4a0.png",
+    "index.html": "/index.html",
+    "main.dd18bfd3.css.map": "/static/css/main.dd18bfd3.css.map",
+    "main.b3a24c1c.js.map": "/static/js/main.b3a24c1c.js.map",
+    "650.52590b03.chunk.js.map": "/static/js/650.52590b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd18bfd3.css",
+    "static/js/main.b3a24c1c.js"
+  ]
+}
